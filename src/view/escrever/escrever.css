@@ -1,0 +1,13 @@
+.login-content{
+    width: 100%;
+    padding: 15%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);;
+    height:100vh;
+}
+
+.btn-login{
+    background-color: #fff;
+    color:rgb(49, 49, 49);
+}
+
